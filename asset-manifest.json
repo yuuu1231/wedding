@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.23854be4.css",
-    "main.js": "/wedding/static/js/main.7e4abda0.js",
+    "main.css": "/wedding/static/css/main.118b2d81.css",
+    "main.js": "/wedding/static/js/main.f9a37244.js",
     "static/media/main.jpg": "/wedding/static/media/main.eee23a74c005b4f4d892.jpg",
+    "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
+    "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
     "static/media/KOTRA_GOTHIC.eot?iefix": "/wedding/static/media/KOTRA_GOTHIC.31687bbed9004f520e41.eot",
     "static/media/KOTRA_GOTHIC.ttf": "/wedding/static/media/KOTRA_GOTHIC.5aa42525c2e23a084d84.ttf",
     "static/media/KOTRA_GOTHIC.woff": "/wedding/static/media/KOTRA_GOTHIC.7095d87a250b01386314.woff",
     "static/media/natural-paper.png": "/wedding/static/media/natural-paper.4059dca9113a0926a9cd.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "index.html": "/wedding/index.html",
-    "main.23854be4.css.map": "/wedding/static/css/main.23854be4.css.map",
-    "main.7e4abda0.js.map": "/wedding/static/js/main.7e4abda0.js.map"
+    "main.118b2d81.css.map": "/wedding/static/css/main.118b2d81.css.map",
+    "main.f9a37244.js.map": "/wedding/static/js/main.f9a37244.js.map"
   },
   "entrypoints": [
-    "static/css/main.23854be4.css",
-    "static/js/main.7e4abda0.js"
+    "static/css/main.118b2d81.css",
+    "static/js/main.f9a37244.js"
   ]
 }
