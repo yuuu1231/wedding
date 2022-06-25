@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.118b2d81.css",
-    "main.js": "/wedding/static/js/main.88976c98.js",
+    "main.css": "/wedding/static/css/main.0d202a7c.css",
+    "main.js": "/wedding/static/js/main.50dcf420.js",
     "static/media/main.jpg": "/wedding/static/media/main.eee23a74c005b4f4d892.jpg",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
@@ -11,11 +11,11 @@
     "static/media/natural-paper.png": "/wedding/static/media/natural-paper.4059dca9113a0926a9cd.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "index.html": "/wedding/index.html",
-    "main.118b2d81.css.map": "/wedding/static/css/main.118b2d81.css.map",
-    "main.88976c98.js.map": "/wedding/static/js/main.88976c98.js.map"
+    "main.0d202a7c.css.map": "/wedding/static/css/main.0d202a7c.css.map",
+    "main.50dcf420.js.map": "/wedding/static/js/main.50dcf420.js.map"
   },
   "entrypoints": [
-    "static/css/main.118b2d81.css",
-    "static/js/main.88976c98.js"
+    "static/css/main.0d202a7c.css",
+    "static/js/main.50dcf420.js"
   ]
 }
