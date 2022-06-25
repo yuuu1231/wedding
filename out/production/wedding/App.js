@@ -1,11 +1,9 @@
+import MainContainer from "./containers/MainContainer";
 
 
 function App() {
   return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-    <div></div>
+    <MainContainer/>
   );
 }
 
