@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.53f048b4.css",
+    "main.js": "/wedding/static/js/main.69c18e07.js",
+    "static/media/main.jpg": "/wedding/static/media/main.eee23a74c005b4f4d892.jpg",
+    "static/media/KOTRA_GOTHIC.eot?iefix": "/wedding/static/media/KOTRA_GOTHIC.31687bbed9004f520e41.eot",
+    "static/media/KOTRA_GOTHIC.ttf": "/wedding/static/media/KOTRA_GOTHIC.5aa42525c2e23a084d84.ttf",
+    "static/media/KOTRA_GOTHIC.woff": "/wedding/static/media/KOTRA_GOTHIC.7095d87a250b01386314.woff",
+    "index.html": "/wedding/index.html",
+    "main.53f048b4.css.map": "/wedding/static/css/main.53f048b4.css.map",
+    "main.69c18e07.js.map": "/wedding/static/js/main.69c18e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f048b4.css",
+    "static/js/main.69c18e07.js"
+  ]
+}
