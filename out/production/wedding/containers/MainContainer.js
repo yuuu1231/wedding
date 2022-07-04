@@ -1,42 +1,22 @@
 import styled from "styled-components";
-import mainImg from "../img/main.jpg"
 import "../font/font.css";
 import BodyContainer from "./BodyContainer";
+import texture from "../images/natural-paper.png";
+import TopContainer from "./TopContainer";
+import GalleryContainer from "./GalleryContainer";
 
-
-const StyledContainer = styled.div`
-    position: absolute;
-    top: 0;
-    left: 0;
-      width: 100%;
-      height: 100%;
-      background-image: url(${mainImg});
-      background-size: cover;
-      width: 500px;
+const Main = styled.div`
+    width: 100vw;
+    background-color: #f7f1f0;
+    background-image: url(${texture});
 `;
 
-const Title = styled.div`
-    color: #e3e3e3;
-    font-size: 20;
-    text-align: center;
-    padding: 20em 10em;
-    font-family: "Kotra";
-`;
-
-function MainContainer() {
-
+export default function MainContainer() {
     return (
-        <div>
-            <StyledContainer>
-                <Title>
-                    <div>최유정 김세중</div>
-                    <div>2022.09.18</div>
-                </Title>
-                <BodyContainer></BodyContainer>
-            </StyledContainer>
-        </div>
+        <Main>
+            <TopContainer/>
+            <BodyContainer/>
+            <GalleryContainer/>
+        </Main>
     );
-
 }
-
-export default MainContainer;

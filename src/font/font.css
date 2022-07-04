@@ -48,3 +48,17 @@
     font-weight: 100;
     font-style: normal;
 }
+@font-face {
+    font-family: "Andalusia";
+    font-display: fallback;
+    src: url("./Andalusia.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "VintageKing";
+    font-display: fallback;
+    src: url("./VintageKing.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}

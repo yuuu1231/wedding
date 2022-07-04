@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Kotra";
+    font-display: fallback;
+
+    src: url("./KOTRA_GOTHIC.ttf") format("truetype"), url("./KOTRA_GOTHIC.woff")
+    format("woff"), url("./KOTRA_GOTHIC.eot?iefix") format("embedded-opentype");
+
+    /* 사용할 폰트의 기본 스타일 */
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Parisienne";
+    font-display: fallback;
+
+    src: url("./Parisienne-Regular.ttf") format("truetype");
+
+    /* 사용할 폰트의 기본 스타일 */
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MaruBuri";
+    font-display: fallback;
+    src: url("./MaruBuri-SemiBold.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MaruBuri";
+    font-display: fallback;
+    src: url("./MaruBuri-Regular.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MaruBuri";
+    font-display: fallback;
+    src: url("./MaruBuri-Light.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "MaruBuri";
+    font-display: fallback;
+    src: url("./MaruBuri-ExtraLight.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Andalusia";
+    font-display: fallback;
+    src: url("./Andalusia.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "VintageKing";
+    font-display: fallback;
+    src: url("./VintageKing.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
