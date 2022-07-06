@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ea896430e3f824677e2a",
+    "revision": "415cc5bccb487fc54673",
     "url": "/wedding/static/css/main.15b315d3.chunk.css"
   },
   {
-    "revision": "ea896430e3f824677e2a",
-    "url": "/wedding/static/js/main.476d7c7c.chunk.js"
+    "revision": "415cc5bccb487fc54673",
+    "url": "/wedding/static/js/main.5c54faf1.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/1157_V_220609.5b894692.jpg"
   },
   {
-    "revision": "2ef637e29853f2e76ee4393e39dd6fdc",
-    "url": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf"
-  },
-  {
     "revision": "312dbcd2ec89a82e86868812ee3edc9d",
     "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
+  },
+  {
+    "revision": "2ef637e29853f2e76ee4393e39dd6fdc",
+    "url": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf"
   },
   {
     "revision": "91bb331ebd832f23b8152b5c5d13cb6d",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/picture_1.fa1299aa.png"
   },
   {
-    "revision": "f7f698e19c00940a58924ee16e66c26d",
+    "revision": "fb0fe4cf012ed4eefad3b5b289e8caf0",
     "url": "/wedding/index.html"
   }
 ];
