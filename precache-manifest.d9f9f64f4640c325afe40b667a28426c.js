@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/wedding/static/js/runtime~main.8918a5c1.js"
   },
   {
-    "revision": "1fa622cdcd21514b969d",
-    "url": "/wedding/static/css/2.249e69c2.chunk.css"
+    "revision": "9d0b0b8a01531703a381",
+    "url": "/wedding/static/css/2.d1a6818b.chunk.css"
   },
   {
-    "revision": "1fa622cdcd21514b969d",
+    "revision": "9d0b0b8a01531703a381",
     "url": "/wedding/static/js/2.d2a382ec.chunk.js"
   },
   {
@@ -40,32 +40,32 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
   },
   {
-    "revision": "1067446d7d66db5e409049c3fc44e51f",
-    "url": "/wedding/static/media/VintageKing.1067446d.ttf"
-  },
-  {
     "revision": "91bb331ebd832f23b8152b5c5d13cb6d",
     "url": "/wedding/static/media/Andalusia.91bb331e.ttf"
   },
   {
-    "revision": "00b8334c05fee26a77a5b13004117b98",
-    "url": "/wedding/static/media/KOTRA_GOTHIC.00b8334c.ttf"
+    "revision": "1067446d7d66db5e409049c3fc44e51f",
+    "url": "/wedding/static/media/VintageKing.1067446d.ttf"
   },
   {
     "revision": "612aba5657c741b94b2521226935159f",
     "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
   },
   {
+    "revision": "00b8334c05fee26a77a5b13004117b98",
+    "url": "/wedding/static/media/KOTRA_GOTHIC.00b8334c.ttf"
+  },
+  {
     "revision": "da972b99aa87c1f5e261b52d1572998f",
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
   },
   {
-    "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
-    "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
-  },
-  {
     "revision": "5a792d9e00f442f4b9222649b704fcf4",
     "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
+  },
+  {
+    "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
+    "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
   },
   {
     "revision": "1910f89081df89e38b1dcd822956de92",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/1157_V_220609.5b894692.jpg"
   },
   {
-    "revision": "b5e528c6b447c225bd7dcdc9fe72fdb3",
+    "revision": "72b1b7e2e851ad72f3977551ba522474",
     "url": "/wedding/index.html"
   }
 ];
