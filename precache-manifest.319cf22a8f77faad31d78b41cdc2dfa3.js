@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/main_picture.5b0a8917.png"
   },
   {
-    "revision": "312dbcd2ec89a82e86868812ee3edc9d",
-    "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
-  },
-  {
     "revision": "2ef637e29853f2e76ee4393e39dd6fdc",
     "url": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf"
+  },
+  {
+    "revision": "312dbcd2ec89a82e86868812ee3edc9d",
+    "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
   },
   {
     "revision": "91bb331ebd832f23b8152b5c5d13cb6d",
