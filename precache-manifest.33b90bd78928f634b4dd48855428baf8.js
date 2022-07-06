@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d2ef1be6d6586eb5c859",
-    "url": "/wedding/static/css/main.15b315d3.chunk.css"
+    "revision": "ae3cf6b8982852d022d3",
+    "url": "/wedding/static/css/main.15d4bca1.chunk.css"
   },
   {
-    "revision": "d2ef1be6d6586eb5c859",
-    "url": "/wedding/static/js/main.2c4d503d.chunk.js"
+    "revision": "ae3cf6b8982852d022d3",
+    "url": "/wedding/static/js/main.12f70869.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
     "url": "/wedding/static/js/runtime~main.8918a5c1.js"
   },
   {
-    "revision": "a7b02e489f023c3bde9f",
-    "url": "/wedding/static/js/2.d848f8d5.chunk.js"
+    "revision": "f011b91dbb797e91efb0",
+    "url": "/wedding/static/js/2.42fa767b.chunk.js"
   },
   {
     "revision": "affd6014914dee9630347daab25b5c74",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/Andalusia.91bb331e.ttf"
   },
   {
-    "revision": "612aba5657c741b94b2521226935159f",
-    "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
-  },
-  {
     "revision": "00b8334c05fee26a77a5b13004117b98",
     "url": "/wedding/static/media/KOTRA_GOTHIC.00b8334c.ttf"
+  },
+  {
+    "revision": "612aba5657c741b94b2521226935159f",
+    "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
   },
   {
     "revision": "da972b99aa87c1f5e261b52d1572998f",
@@ -80,11 +80,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
-    "revision": "fa1299aacf095b9a8eb3149bde8b5171",
-    "url": "/wedding/static/media/picture_1.fa1299aa.png"
-  },
-  {
-    "revision": "084d5fb7b6f0c4afbc8f6ea14f5e52a5",
+    "revision": "0a16892b3e932dd8acc5fc1699e8be6e",
     "url": "/wedding/index.html"
   }
 ];
