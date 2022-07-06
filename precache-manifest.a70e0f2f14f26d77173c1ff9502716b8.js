@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/main_picture.5b0a8917.png"
   },
   {
-    "revision": "2ef637e29853f2e76ee4393e39dd6fdc",
-    "url": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf"
-  },
-  {
     "revision": "312dbcd2ec89a82e86868812ee3edc9d",
     "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
+  },
+  {
+    "revision": "2ef637e29853f2e76ee4393e39dd6fdc",
+    "url": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf"
   },
   {
     "revision": "1067446d7d66db5e409049c3fc44e51f",
@@ -48,16 +48,20 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/Andalusia.91bb331e.ttf"
   },
   {
-    "revision": "612aba5657c741b94b2521226935159f",
-    "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
-  },
-  {
     "revision": "00b8334c05fee26a77a5b13004117b98",
     "url": "/wedding/static/media/KOTRA_GOTHIC.00b8334c.ttf"
   },
   {
+    "revision": "612aba5657c741b94b2521226935159f",
+    "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
+  },
+  {
     "revision": "da972b99aa87c1f5e261b52d1572998f",
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
+  },
+  {
+    "revision": "1910f89081df89e38b1dcd822956de92",
+    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
     "revision": "5a792d9e00f442f4b9222649b704fcf4",
@@ -66,10 +70,6 @@ self.__precacheManifest = [
   {
     "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
     "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
-  },
-  {
-    "revision": "1910f89081df89e38b1dcd822956de92",
-    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
     "revision": "fa1299aacf095b9a8eb3149bde8b5171",
