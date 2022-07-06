@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/KOTRA_GOTHIC.312dbcd2.woff"
   },
   {
-    "revision": "1067446d7d66db5e409049c3fc44e51f",
-    "url": "/wedding/static/media/VintageKing.1067446d.ttf"
-  },
-  {
     "revision": "91bb331ebd832f23b8152b5c5d13cb6d",
     "url": "/wedding/static/media/Andalusia.91bb331e.ttf"
+  },
+  {
+    "revision": "1067446d7d66db5e409049c3fc44e51f",
+    "url": "/wedding/static/media/VintageKing.1067446d.ttf"
   },
   {
     "revision": "00b8334c05fee26a77a5b13004117b98",
@@ -68,19 +68,19 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
   },
   {
-    "revision": "5a792d9e00f442f4b9222649b704fcf4",
-    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
+    "revision": "1910f89081df89e38b1dcd822956de92",
+    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
     "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
     "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
   },
   {
-    "revision": "1910f89081df89e38b1dcd822956de92",
-    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
+    "revision": "5a792d9e00f442f4b9222649b704fcf4",
+    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
   },
   {
-    "revision": "0a16892b3e932dd8acc5fc1699e8be6e",
+    "revision": "cdd40a296fe1010751a57baba1b12bad",
     "url": "/wedding/index.html"
   }
 ];
