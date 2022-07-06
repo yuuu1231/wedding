@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.5d192d85.css",
-    "main.js": "/wedding/static/js/main.3ee0731f.js",
+    "main.js": "/wedding/static/js/main.46b6e19b.js",
     "static/media/0709_V_220609.jpg": "/wedding/static/media/0709_V_220609.588636deea6cb4bbd3d1.jpg",
     "static/media/0031_V_220609.jpg": "/wedding/static/media/0031_V_220609.f4a67e6fdbbbb445ac95.jpg",
     "static/media/1157_V_220609.jpg": "/wedding/static/media/1157_V_220609.bea8bfcd22c886f292e8.jpg",
@@ -10,6 +10,7 @@
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
+    "static/media/IMG_0314.PNG": "/wedding/static/media/IMG_0314.d63611792416546b81e1.PNG",
     "static/media/picture_1.png": "/wedding/static/media/picture_1.d8e1304069de39414022.png",
     "static/media/KOTRA_GOTHIC.eot?iefix": "/wedding/static/media/KOTRA_GOTHIC.31687bbed9004f520e41.eot",
     "static/media/KOTRA_GOTHIC.ttf": "/wedding/static/media/KOTRA_GOTHIC.5aa42525c2e23a084d84.ttf",
@@ -20,10 +21,10 @@
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
     "index.html": "/wedding/index.html",
     "main.5d192d85.css.map": "/wedding/static/css/main.5d192d85.css.map",
-    "main.3ee0731f.js.map": "/wedding/static/js/main.3ee0731f.js.map"
+    "main.46b6e19b.js.map": "/wedding/static/js/main.46b6e19b.js.map"
   },
   "entrypoints": [
     "static/css/main.5d192d85.css",
-    "static/js/main.3ee0731f.js"
+    "static/js/main.46b6e19b.js"
   ]
 }
