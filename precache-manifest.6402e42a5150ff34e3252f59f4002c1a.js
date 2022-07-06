@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
   },
   {
+    "revision": "1910f89081df89e38b1dcd822956de92",
+    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
+  },
+  {
     "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
     "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
   },
   {
     "revision": "5a792d9e00f442f4b9222649b704fcf4",
     "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
-  },
-  {
-    "revision": "1910f89081df89e38b1dcd822956de92",
-    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
     "revision": "fa1299aacf095b9a8eb3149bde8b5171",
