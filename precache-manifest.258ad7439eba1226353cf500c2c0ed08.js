@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ae3cf6b8982852d022d3",
+    "revision": "144e8e29af061acb78ff",
     "url": "/wedding/static/css/main.15d4bca1.chunk.css"
   },
   {
-    "revision": "ae3cf6b8982852d022d3",
-    "url": "/wedding/static/js/main.12f70869.chunk.js"
+    "revision": "144e8e29af061acb78ff",
+    "url": "/wedding/static/js/main.dac130a3.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/1080_V_220609.e34411dc.jpg"
   },
   {
-    "revision": "1002c4fdf1de89e1fbc6902f6c02f3aa",
-    "url": "/wedding/static/media/natural-paper.1002c4fd.png"
+    "revision": "4f0fd44702f996f16f760c540f2b4b72",
+    "url": "/wedding/static/media/rice-paper-3.4f0fd447.png"
   },
   {
-    "revision": "357b5df54018640cd3d210a63146793b",
-    "url": "/wedding/static/media/main_picture_3.357b5df5.png"
+    "revision": "e93499dfabf4dbeb90a28a97574f149e",
+    "url": "/wedding/static/media/main_picture.e93499df.png"
   },
   {
     "revision": "57a1783d3449775bf144484206d1cef9",
@@ -64,6 +64,10 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/KOTRA_GOTHIC.612aba56.eot"
   },
   {
+    "revision": "5a792d9e00f442f4b9222649b704fcf4",
+    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
+  },
+  {
     "revision": "da972b99aa87c1f5e261b52d1572998f",
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
   },
@@ -76,11 +80,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
   },
   {
-    "revision": "5a792d9e00f442f4b9222649b704fcf4",
-    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
-  },
-  {
-    "revision": "cdd40a296fe1010751a57baba1b12bad",
+    "revision": "d7b56c62728042a3a68486fbc30a7ba6",
     "url": "/wedding/index.html"
   }
 ];
