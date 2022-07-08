@@ -1,14 +1,13 @@
 
 .App {
-  text-align: center;
+    text-align: center;
 }
 
-.first{
-  flex: 1;
-  margin-right: 70%;
+.first {
+    flex: 1;
+    margin-right: 70%;
 }
 
-
-.second{
-  flex: 1;
+.second {
+    flex: 1;
 }
