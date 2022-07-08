@@ -1,13 +1,13 @@
 {
   "main.css": "/wedding/static/css/main.c1030cc6.chunk.css",
-  "main.js": "/wedding/static/js/main.83f7627a.chunk.js",
-  "main.js.map": "/wedding/static/js/main.83f7627a.chunk.js.map",
+  "main.js": "/wedding/static/js/main.beab47b8.chunk.js",
+  "main.js.map": "/wedding/static/js/main.beab47b8.chunk.js.map",
   "runtime~main.js": "/wedding/static/js/runtime~main.8918a5c1.js",
   "runtime~main.js.map": "/wedding/static/js/runtime~main.8918a5c1.js.map",
   "static/js/2.07ef9f52.chunk.js": "/wedding/static/js/2.07ef9f52.chunk.js",
   "static/js/2.07ef9f52.chunk.js.map": "/wedding/static/js/2.07ef9f52.chunk.js.map",
   "index.html": "/wedding/index.html",
-  "precache-manifest.ede508ad130c0cea8a06d8fc3d2f8eb1.js": "/wedding/precache-manifest.ede508ad130c0cea8a06d8fc3d2f8eb1.js",
+  "precache-manifest.4e15298b3d23da9785afac3bb6dde778.js": "/wedding/precache-manifest.4e15298b3d23da9785afac3bb6dde778.js",
   "service-worker.js": "/wedding/service-worker.js",
   "static/css/main.c1030cc6.chunk.css.map": "/wedding/static/css/main.c1030cc6.chunk.css.map",
   "static/media/font.css": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf",
@@ -35,6 +35,6 @@
   "static/media/Img9.JPG": "/wedding/static/media/Img9.0bf96066.JPG",
   "static/media/groovepaper.png": "/wedding/static/media/groovepaper.8c35e1f8.png",
   "static/media/leaf.png": "/wedding/static/media/leaf.c6977e03.png",
-  "static/media/main_picture_2.png": "/wedding/static/media/main_picture_2.1fce9644.png",
+  "static/media/main_picture_4.png": "/wedding/static/media/main_picture_4.a2c64601.png",
   "static/media/photo1.png": "/wedding/static/media/photo1.95cb3e24.png"
 }
