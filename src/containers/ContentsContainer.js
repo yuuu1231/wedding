@@ -1,34 +1,33 @@
 import React from 'react';
 import styled from "styled-components";
 import Fade from 'react-reveal/Fade';
+import picture from "../images/pictures/flower.png";
 
 const ContentContainer = styled.div`
-    color: #616161;
-    font-family: "Kotra";
-    text-align: center;
-    align-items: center;
-    padding-top: 40%;
+    padding-top: 20%;
     padding-bottom: 30%;
+`;
+
+const TitleDiv = styled.div`
+    padding-bottom: 10%;
+    font-family: 'NanumSquareacB';
+    font-size: 100%;
 `;
 
 const TextDiv = styled.div`
     padding: 2%;
-    font-weight: 200;
-`;
-const TextDivBold = styled.div`
-    padding-bottom: 15%;
-    font-weight: 400;
 `;
 const StyledImg = styled.img`
-    width: 80%;
+    width: 70%;
+    margin-left:8%
 `;
-
 export default function ContentsContainer() {
     return (
         <div>
+            <StyledImg src={picture} />
             <ContentContainer>
                 <Fade bottom cascade>
-                    <TextDivBold>초대합니다.</TextDivBold>
+                    <TitleDiv>초대합니다.</TitleDiv>
                     <TextDiv>9월의 좋은 날</TextDiv>
                     <TextDiv>결혼합니다.</TextDiv>
                     <TextDiv>함께하여</TextDiv>

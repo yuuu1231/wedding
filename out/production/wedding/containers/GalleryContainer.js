@@ -1,61 +1,39 @@
 import React from 'react';
-import Img1 from "../images/gallery/0709_V_220609.jpg";
-import Img2 from "../images/gallery/1080_V_220609.jpg";
-import Img3 from "../images/gallery/0031_V_220609.jpg";
-import Img4 from "../images/gallery/1157_V_220609.jpg";
-import styled from "styled-components";
-import ImageGallery from "react-image-gallery";
-import "react-image-gallery/styles/css/image-gallery.css";
+import Img1 from "../images/gallery/img (1).jpg";
+import Img2 from "../images/gallery/img (2).jpg";
+import Img3 from "../images/gallery/img (3).jpg";
+import Img4 from "../images/gallery/img (4).jpg";
+import Img5 from "../images/gallery/img (5).jpg";
+import Img6 from "../images/gallery/img (6).jpg";
+import {ReactPhotoCollage} from "react-photo-collage";
 
-const IMAGES = [
-    {
-        original: Img1,
-        thumbnail: Img1,
-        originalWidth: 200,
-        thumbnailHeight: 100,
-        thumbnailWidth: 100,
-
-    },
-    /*{
-        original: Img2,
-        thumbnail: Img2,
-        originalWidth: 200,
-        thumbnailHeight: 100,
-        thumbnailWidth: 100,
-    },
-    {
-        original: Img3,
-        thumbnail: Img3,
-        originalWidth: 200,
-        thumbnailHeight: 100,
-        thumbnailWidth: 100,
-    },
-    {
-        original: Img4,
-        thumbnail: Img4,
-        originalWidth: 200,
-        thumbnailHeight: 100,
-        thumbnailWidth: 100,
-    },*/
-];
-
-
-const TextDiv = styled.div`
-    color: #616161;
-    font-family: "MaruBuri";
-    text-align: center;
-    align-items: center;
-    padding-bottom: 5%;
-`;
+const setting = {
+    width: "100%",
+    height: ["200px", "200px", "200px"],
+    layout: [3, 3, 3],
+    photos: [
+        {
+            source: Img1
+        },
+        {
+            source: Img2
+        },
+        {
+            source: Img3
+        },
+        {
+            source: Img4
+        },
+    ],
+    showNumOfRemainingPhotos: true
+};
 
 
 export default function GalleryContainer() {
-
     return (
         <div>
-            <TextDiv>Gallery</TextDiv>
-{/*            <Gallery images={IMAGES}/>*/}
-            <ImageGallery items={IMAGES}/>
+            <div className="titleDiv">Gallery</div>
+            <ReactPhotoCollage {...setting} />
         </div>
     );
 }

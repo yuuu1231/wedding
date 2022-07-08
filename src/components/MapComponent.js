@@ -1,6 +1,5 @@
 /*global kakao*/
 import React, {useEffect} from "react";
-import "../App.css";
 
 const MapComponent = () => {
 
@@ -44,7 +43,7 @@ const MapComponent = () => {
 
     return (
         <div className="mapDiv">
-            <div id="map" style={{width: "80%", height: "300px"}}/>
+            <div id="map" style={{width: "80%", height: "300px", border: "2px solid #dbdbd9"}}/>
         </div>
     )
 };

@@ -1,9 +1,6 @@
 import React from 'react';
 import styled from "styled-components";
-import "../App.css";
-import picture from "../images/main_picture.png";
-import Fade from "react-reveal/Fade";
-import ConfettiComponent from "../components/ConfettiComponent";
+import picture from "../images/pictures/main_picture.png";
 
 const StyledImg = styled.img`
     width: 100%;
@@ -15,10 +12,6 @@ const StyledContainer = styled.div`
     margin-top: 0;
 `;
 const Contents = styled.div`
-    font-size: 90%;
-    text-align: center;
-    color: #424242;
-    font-family: "KOTRA";
     font-weight: 100;
     padding-bottom: 30%;
     padding-top: 2%;
