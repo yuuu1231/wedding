@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/flowerline_2.0b31d984.png"
   },
   {
-    "revision": "7924cd9df35375cd447f1785cce0552d",
+    "revision": "3d1ab8d8f7074c6697259313e28ca654",
     "url": "/wedding/index.html"
   }
 ];
