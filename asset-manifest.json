@@ -1,20 +1,20 @@
 {
-  "main.css": "/wedding/static/css/main.15d4bca1.chunk.css",
-  "main.js": "/wedding/static/js/main.dac130a3.chunk.js",
-  "main.js.map": "/wedding/static/js/main.dac130a3.chunk.js.map",
+  "main.css": "/wedding/static/css/main.10fb0e88.chunk.css",
+  "main.js": "/wedding/static/js/main.658703d4.chunk.js",
+  "main.js.map": "/wedding/static/js/main.658703d4.chunk.js.map",
   "runtime~main.js": "/wedding/static/js/runtime~main.8918a5c1.js",
   "runtime~main.js.map": "/wedding/static/js/runtime~main.8918a5c1.js.map",
-  "static/js/2.42fa767b.chunk.js": "/wedding/static/js/2.42fa767b.chunk.js",
-  "static/js/2.42fa767b.chunk.js.map": "/wedding/static/js/2.42fa767b.chunk.js.map",
+  "static/js/2.d158ef8e.chunk.js": "/wedding/static/js/2.d158ef8e.chunk.js",
+  "static/js/2.d158ef8e.chunk.js.map": "/wedding/static/js/2.d158ef8e.chunk.js.map",
   "index.html": "/wedding/index.html",
-  "precache-manifest.258ad7439eba1226353cf500c2c0ed08.js": "/wedding/precache-manifest.258ad7439eba1226353cf500c2c0ed08.js",
+  "precache-manifest.f0e33b6931b4b047e83f05666a360d29.js": "/wedding/precache-manifest.f0e33b6931b4b047e83f05666a360d29.js",
   "service-worker.js": "/wedding/service-worker.js",
-  "static/css/main.15d4bca1.chunk.css.map": "/wedding/static/css/main.15d4bca1.chunk.css.map",
+  "static/css/main.10fb0e88.chunk.css.map": "/wedding/static/css/main.10fb0e88.chunk.css.map",
   "static/media/0031_V_220609.jpg": "/wedding/static/media/0031_V_220609.57a1783d.jpg",
   "static/media/0709_V_220609.jpg": "/wedding/static/media/0709_V_220609.affd6014.jpg",
   "static/media/1080_V_220609.jpg": "/wedding/static/media/1080_V_220609.e34411dc.jpg",
   "static/media/1157_V_220609.jpg": "/wedding/static/media/1157_V_220609.5b894692.jpg",
   "static/media/font.css": "/wedding/static/media/VintageKing.1067446d.ttf",
   "static/media/main_picture.png": "/wedding/static/media/main_picture.e93499df.png",
-  "static/media/rice-paper-3.png": "/wedding/static/media/rice-paper-3.4f0fd447.png"
+  "static/media/paper-fibers.png": "/wedding/static/media/paper-fibers.e746000b.png"
 }
