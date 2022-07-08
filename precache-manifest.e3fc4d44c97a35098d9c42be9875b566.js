@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "b2cfc983c44eb331fc62",
-    "url": "/wedding/static/css/main.90124033.chunk.css"
+    "revision": "2dbfd115c026ee679765",
+    "url": "/wedding/static/css/main.12d84765.chunk.css"
   },
   {
-    "revision": "b2cfc983c44eb331fc62",
-    "url": "/wedding/static/js/main.34d8c4c9.chunk.js"
+    "revision": "2dbfd115c026ee679765",
+    "url": "/wedding/static/js/main.4c1d3a93.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
     "url": "/wedding/static/js/runtime~main.8918a5c1.js"
   },
   {
-    "revision": "55bdcf6a301ff93a8254",
-    "url": "/wedding/static/js/2.0f2b088b.chunk.js"
+    "revision": "efdb15dd0cac62da9c82",
+    "url": "/wedding/static/js/2.029e5b37.chunk.js"
   },
   {
-    "revision": "6a9af9b2ee60f8ba1b24798e8cc3a7ba",
-    "url": "/wedding/static/media/flower.6a9af9b2.png"
+    "revision": "c6977e0301cf41e451923777a230cc2d",
+    "url": "/wedding/static/media/leaf.c6977e03.png"
+  },
+  {
+    "revision": "95cb3e245375e2d56482b98405c85ce2",
+    "url": "/wedding/static/media/photo1.95cb3e24.png"
   },
   {
     "revision": "8c35e1f8505d66b5f502fd31607ff80e",
@@ -128,7 +132,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
   },
   {
-    "revision": "2ce002d475ac2778a55a85e1a5dbf73c",
+    "revision": "b40e6039d34dc5272110da8fd3b99f76",
     "url": "/wedding/index.html"
   }
 ];
