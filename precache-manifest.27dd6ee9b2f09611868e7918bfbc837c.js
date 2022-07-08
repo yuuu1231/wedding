@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2dbfd115c026ee679765",
-    "url": "/wedding/static/css/main.12d84765.chunk.css"
+    "revision": "80077e9d644f2e27c782",
+    "url": "/wedding/static/css/main.a9131f0e.chunk.css"
   },
   {
-    "revision": "2dbfd115c026ee679765",
-    "url": "/wedding/static/js/main.4c1d3a93.chunk.js"
+    "revision": "80077e9d644f2e27c782",
+    "url": "/wedding/static/js/main.be8591fa.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
     "url": "/wedding/static/js/runtime~main.8918a5c1.js"
   },
   {
-    "revision": "efdb15dd0cac62da9c82",
-    "url": "/wedding/static/js/2.029e5b37.chunk.js"
+    "revision": "b41c6085d338c40b03b8",
+    "url": "/wedding/static/js/2.570f4cd6.chunk.js"
   },
   {
     "revision": "c6977e0301cf41e451923777a230cc2d",
@@ -104,6 +104,22 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/Img18.0ba950ea.JPG"
   },
   {
+    "revision": "1d8c3e484f03daf9da067db8f72ab043",
+    "url": "/wedding/static/media/Img19.1d8c3e48.jpg"
+  },
+  {
+    "revision": "46701a0a1cb88885566bd8543148c8c9",
+    "url": "/wedding/static/media/Img20.46701a0a.JPG"
+  },
+  {
+    "revision": "ea207b6ed3b37cdeb77f384c31c8fe83",
+    "url": "/wedding/static/media/Img21.ea207b6e.JPG"
+  },
+  {
+    "revision": "cfe1dc79f3ed280553bcc1290ea4fdeb",
+    "url": "/wedding/static/media/Img22.cfe1dc79.JPG"
+  },
+  {
     "revision": "91bb331ebd832f23b8152b5c5d13cb6d",
     "url": "/wedding/static/media/Andalusia.91bb331e.ttf"
   },
@@ -132,7 +148,11 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
   },
   {
-    "revision": "b40e6039d34dc5272110da8fd3b99f76",
+    "revision": "0b31d98427149b1a444e31e2474b45f9",
+    "url": "/wedding/static/media/flowerline_2.0b31d984.png"
+  },
+  {
+    "revision": "7924cd9df35375cd447f1785cce0552d",
     "url": "/wedding/index.html"
   }
 ];
