@@ -1,13 +1,13 @@
 {
   "main.css": "/wedding/static/css/main.90124033.chunk.css",
-  "main.js": "/wedding/static/js/main.a6921cd5.chunk.js",
-  "main.js.map": "/wedding/static/js/main.a6921cd5.chunk.js.map",
+  "main.js": "/wedding/static/js/main.34d8c4c9.chunk.js",
+  "main.js.map": "/wedding/static/js/main.34d8c4c9.chunk.js.map",
   "runtime~main.js": "/wedding/static/js/runtime~main.8918a5c1.js",
   "runtime~main.js.map": "/wedding/static/js/runtime~main.8918a5c1.js.map",
-  "static/js/2.6f1047dc.chunk.js": "/wedding/static/js/2.6f1047dc.chunk.js",
-  "static/js/2.6f1047dc.chunk.js.map": "/wedding/static/js/2.6f1047dc.chunk.js.map",
+  "static/js/2.0f2b088b.chunk.js": "/wedding/static/js/2.0f2b088b.chunk.js",
+  "static/js/2.0f2b088b.chunk.js.map": "/wedding/static/js/2.0f2b088b.chunk.js.map",
   "index.html": "/wedding/index.html",
-  "precache-manifest.d81f6e90943e9e14db4323b2c40b80f6.js": "/wedding/precache-manifest.d81f6e90943e9e14db4323b2c40b80f6.js",
+  "precache-manifest.976c19081da9b6880b5e17a4c7eed0a4.js": "/wedding/precache-manifest.976c19081da9b6880b5e17a4c7eed0a4.js",
   "service-worker.js": "/wedding/service-worker.js",
   "static/css/main.90124033.chunk.css.map": "/wedding/static/css/main.90124033.chunk.css.map",
   "static/media/font.css": "/wedding/static/media/Parisienne-Regular.2ef637e2.ttf",
@@ -29,6 +29,7 @@
   "static/media/Img7.JPG": "/wedding/static/media/Img7.86f7c864.JPG",
   "static/media/Img8.JPG": "/wedding/static/media/Img8.d705d2f9.JPG",
   "static/media/Img9.JPG": "/wedding/static/media/Img9.0bf96066.JPG",
-  "static/media/asfalt-dark.png": "/wedding/static/media/asfalt-dark.28359df2.png",
+  "static/media/flower.png": "/wedding/static/media/flower.6a9af9b2.png",
+  "static/media/groovepaper.png": "/wedding/static/media/groovepaper.8c35e1f8.png",
   "static/media/main_picture.png": "/wedding/static/media/main_picture.e93499df.png"
 }

@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "e745fb35a64ff5c6bc7d",
+    "revision": "b2cfc983c44eb331fc62",
     "url": "/wedding/static/css/main.90124033.chunk.css"
   },
   {
-    "revision": "e745fb35a64ff5c6bc7d",
-    "url": "/wedding/static/js/main.a6921cd5.chunk.js"
+    "revision": "b2cfc983c44eb331fc62",
+    "url": "/wedding/static/js/main.34d8c4c9.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
     "url": "/wedding/static/js/runtime~main.8918a5c1.js"
   },
   {
-    "revision": "79647a9ba28f7b0cd8b6",
-    "url": "/wedding/static/js/2.6f1047dc.chunk.js"
+    "revision": "55bdcf6a301ff93a8254",
+    "url": "/wedding/static/js/2.0f2b088b.chunk.js"
   },
   {
-    "revision": "28359df250103599e9feb9ce7026dace",
-    "url": "/wedding/static/media/asfalt-dark.28359df2.png"
+    "revision": "6a9af9b2ee60f8ba1b24798e8cc3a7ba",
+    "url": "/wedding/static/media/flower.6a9af9b2.png"
+  },
+  {
+    "revision": "8c35e1f8505d66b5f502fd31607ff80e",
+    "url": "/wedding/static/media/groovepaper.8c35e1f8.png"
   },
   {
     "revision": "e93499dfabf4dbeb90a28a97574f149e",
@@ -112,19 +116,19 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-ExtraLight.da972b99.ttf"
   },
   {
-    "revision": "5a792d9e00f442f4b9222649b704fcf4",
-    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
+    "revision": "1910f89081df89e38b1dcd822956de92",
+    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
     "revision": "43dffdac3db1bcce6ffc1ffa6d93f5c8",
     "url": "/wedding/static/media/MaruBuri-SemiBold.43dffdac.ttf"
   },
   {
-    "revision": "1910f89081df89e38b1dcd822956de92",
-    "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
+    "revision": "5a792d9e00f442f4b9222649b704fcf4",
+    "url": "/wedding/static/media/MaruBuri-Regular.5a792d9e.ttf"
   },
   {
-    "revision": "2c556ea0b5d79567618cb88da400db60",
+    "revision": "2ce002d475ac2778a55a85e1a5dbf73c",
     "url": "/wedding/index.html"
   }
 ];
