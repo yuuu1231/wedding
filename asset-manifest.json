@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.f2002e1b.css",
-    "main.js": "/wedding/static/js/main.4ac1f2bc.js",
+    "main.js": "/wedding/static/js/main.bbec53c7.js",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
@@ -40,10 +40,10 @@
     "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
     "index.html": "/wedding/index.html",
     "main.f2002e1b.css.map": "/wedding/static/css/main.f2002e1b.css.map",
-    "main.4ac1f2bc.js.map": "/wedding/static/js/main.4ac1f2bc.js.map"
+    "main.bbec53c7.js.map": "/wedding/static/js/main.bbec53c7.js.map"
   },
   "entrypoints": [
     "static/css/main.f2002e1b.css",
-    "static/js/main.4ac1f2bc.js"
+    "static/js/main.bbec53c7.js"
   ]
 }
