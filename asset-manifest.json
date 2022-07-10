@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.b3ef5482.css",
-    "main.js": "/wedding/static/js/main.5bfaf1f0.js",
+    "main.js": "/wedding/static/js/main.9eeba6ac.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
     "static/media/main_photo_2.png": "/wedding/static/media/main_photo_2.28d7267b6f9104e352b2.png",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
-    "static/media/photo1.png": "/wedding/static/media/photo1.34deb44ce184b1aa2710.png",
     "static/media/Img24.jpg": "/wedding/static/media/Img24.82854bec0d2824d78f12.jpg",
     "static/media/Img16.JPG": "/wedding/static/media/Img16.9308bae55ddf6ad7092c.JPG",
     "static/media/Img4.JPG": "/wedding/static/media/Img4.145c8ab8334269c323e9.JPG",
@@ -34,6 +33,7 @@
     "static/media/Img3.JPG": "/wedding/static/media/Img3.87ad319fd8058e0de4f3.JPG",
     "static/media/Img2.JPG": "/wedding/static/media/Img2.d2ecee709d88760e3b11.JPG",
     "static/media/Img20.jpg": "/wedding/static/media/Img20.f172de8727345d792d32.jpg",
+    "static/media/picture_2.png": "/wedding/static/media/picture_2.3c0de93f0ca1038b0ae3.png",
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
     "static/media/wedding_day.png": "/wedding/static/media/wedding_day.8e7b528c436e1fdabbba.png",
     "static/media/wedding_day_3.png": "/wedding/static/media/wedding_day_3.ec065576306ed123131c.png",
@@ -43,10 +43,10 @@
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.b3ef5482.css.map": "/wedding/static/css/main.b3ef5482.css.map",
-    "main.5bfaf1f0.js.map": "/wedding/static/js/main.5bfaf1f0.js.map"
+    "main.9eeba6ac.js.map": "/wedding/static/js/main.9eeba6ac.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ef5482.css",
-    "static/js/main.5bfaf1f0.js"
+    "static/js/main.9eeba6ac.js"
   ]
 }
