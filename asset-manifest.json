@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.b3ef5482.css",
-    "main.js": "/wedding/static/js/main.9eeba6ac.js",
+    "main.css": "/wedding/static/css/main.c05d7ad1.css",
+    "main.js": "/wedding/static/js/main.e8cfe716.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
-    "static/media/main_photo_2.png": "/wedding/static/media/main_photo_2.28d7267b6f9104e352b2.png",
+    "static/media/main_photo_3.png": "/wedding/static/media/main_photo_3.99041920ffba77025cba.png",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
@@ -36,17 +36,16 @@
     "static/media/picture_2.png": "/wedding/static/media/picture_2.3c0de93f0ca1038b0ae3.png",
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
     "static/media/wedding_day.png": "/wedding/static/media/wedding_day.8e7b528c436e1fdabbba.png",
-    "static/media/wedding_day_3.png": "/wedding/static/media/wedding_day_3.ec065576306ed123131c.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
     "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
-    "main.b3ef5482.css.map": "/wedding/static/css/main.b3ef5482.css.map",
-    "main.9eeba6ac.js.map": "/wedding/static/js/main.9eeba6ac.js.map"
+    "main.c05d7ad1.css.map": "/wedding/static/css/main.c05d7ad1.css.map",
+    "main.e8cfe716.js.map": "/wedding/static/js/main.e8cfe716.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3ef5482.css",
-    "static/js/main.9eeba6ac.js"
+    "static/css/main.c05d7ad1.css",
+    "static/js/main.e8cfe716.js"
   ]
 }
