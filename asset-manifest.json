@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.f2002e1b.css",
-    "main.js": "/wedding/static/js/main.bbec53c7.js",
+    "main.css": "/wedding/static/css/main.2edf0490.css",
+    "main.js": "/wedding/static/js/main.d8bc139b.js",
+    "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
@@ -24,7 +25,6 @@
     "static/media/Img1.JPG": "/wedding/static/media/Img1.be417f4ccac0b5aeef96.JPG",
     "static/media/Img11.JPG": "/wedding/static/media/Img11.c7d141796d8aa0c2865d.JPG",
     "static/media/Img21.jpg": "/wedding/static/media/Img21.93ca1ee0e577f383e39d.jpg",
-    "static/media/Img15.JPG": "/wedding/static/media/Img15.909f01a7dcf382a51ef5.JPG",
     "static/media/Img23.jpg": "/wedding/static/media/Img23.a456a99df26f97faa5dc.jpg",
     "static/media/Img17.JPG": "/wedding/static/media/Img17.c1e5e6590e58040d2563.JPG",
     "static/media/KOTRA_GOTHIC.ttf": "/wedding/static/media/KOTRA_GOTHIC.5aa42525c2e23a084d84.ttf",
@@ -38,12 +38,13 @@
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
     "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
+    "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
-    "main.f2002e1b.css.map": "/wedding/static/css/main.f2002e1b.css.map",
-    "main.bbec53c7.js.map": "/wedding/static/js/main.bbec53c7.js.map"
+    "main.2edf0490.css.map": "/wedding/static/css/main.2edf0490.css.map",
+    "main.d8bc139b.js.map": "/wedding/static/js/main.d8bc139b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2002e1b.css",
-    "static/js/main.bbec53c7.js"
+    "static/css/main.2edf0490.css",
+    "static/js/main.d8bc139b.js"
   ]
 }
