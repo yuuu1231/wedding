@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.c1d7037c.css",
-    "main.js": "/wedding/static/js/main.ed7a3094.js",
+    "main.js": "/wedding/static/js/main.f3dbb7fd.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
-    "static/media/main_photo_3.png": "/wedding/static/media/main_photo_3.99041920ffba77025cba.png",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
+    "static/media/main_photo_2.png": "/wedding/static/media/main_photo_2.dfe5f28b2ebc71a734c5.png",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
     "static/media/Img24.jpg": "/wedding/static/media/Img24.82854bec0d2824d78f12.jpg",
@@ -36,16 +36,17 @@
     "static/media/picture_2.png": "/wedding/static/media/picture_2.3c0de93f0ca1038b0ae3.png",
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
     "static/media/wedding_day.png": "/wedding/static/media/wedding_day.8e7b528c436e1fdabbba.png",
+    "static/media/wedding_day_3.png": "/wedding/static/media/wedding_day_3.ec065576306ed123131c.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
     "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.c1d7037c.css.map": "/wedding/static/css/main.c1d7037c.css.map",
-    "main.ed7a3094.js.map": "/wedding/static/js/main.ed7a3094.js.map"
+    "main.f3dbb7fd.js.map": "/wedding/static/js/main.f3dbb7fd.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d7037c.css",
-    "static/js/main.ed7a3094.js"
+    "static/js/main.f3dbb7fd.js"
   ]
 }
