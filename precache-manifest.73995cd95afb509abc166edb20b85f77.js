@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3acaa91abee3f9e4db78",
+    "revision": "3bc8e3f86fac7a660743",
     "url": "/wedding/static/css/main.6d0034bd.chunk.css"
   },
   {
-    "revision": "3acaa91abee3f9e4db78",
-    "url": "/wedding/static/js/main.95868e95.chunk.js"
+    "revision": "3bc8e3f86fac7a660743",
+    "url": "/wedding/static/js/main.18f5e7c4.chunk.js"
   },
   {
     "revision": "f05cdc32ffbcfb27d2df",
@@ -160,7 +160,7 @@ self.__precacheManifest = [
     "url": "/wedding/static/media/MaruBuri-Light.1910f890.ttf"
   },
   {
-    "revision": "bf412cb42b9e48b0203bc973b7f1aa75",
+    "revision": "f8c1787c506a63b60ad385036d77c753",
     "url": "/wedding/index.html"
   }
 ];
