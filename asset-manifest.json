@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.c1d7037c.css",
-    "main.js": "/wedding/static/js/main.9941d286.js",
+    "main.js": "/wedding/static/js/main.20c65a23.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
@@ -32,7 +32,6 @@
     "static/media/Img3.JPG": "/wedding/static/media/Img3.87ad319fd8058e0de4f3.JPG",
     "static/media/Img2.JPG": "/wedding/static/media/Img2.d2ecee709d88760e3b11.JPG",
     "static/media/Img20.jpg": "/wedding/static/media/Img20.f172de8727345d792d32.jpg",
-    "static/media/picture_2.png": "/wedding/static/media/picture_2.3c0de93f0ca1038b0ae3.png",
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
     "static/media/wedding_day_2.png": "/wedding/static/media/wedding_day_2.9b50c402035c623d33b7.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
@@ -41,10 +40,10 @@
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.c1d7037c.css.map": "/wedding/static/css/main.c1d7037c.css.map",
-    "main.9941d286.js.map": "/wedding/static/js/main.9941d286.js.map"
+    "main.20c65a23.js.map": "/wedding/static/js/main.20c65a23.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d7037c.css",
-    "static/js/main.9941d286.js"
+    "static/js/main.20c65a23.js"
   ]
 }
