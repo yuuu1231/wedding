@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.c1d7037c.css",
-    "main.js": "/wedding/static/js/main.d1a5a6c3.js",
+    "main.js": "/wedding/static/js/main.9941d286.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
@@ -21,8 +21,8 @@
     "static/media/Img19.jpg": "/wedding/static/media/Img19.d37ee0112a234b7e540e.jpg",
     "static/media/Img18.JPG": "/wedding/static/media/Img18.e966a6594af12afe9b19.JPG",
     "static/media/Img9.JPG": "/wedding/static/media/Img9.1dd6dab0d0734fdab884.JPG",
+    "static/media/main_picture_4.png": "/wedding/static/media/main_picture_4.938b515ce9f8fbdb35a0.png",
     "static/media/Img1.JPG": "/wedding/static/media/Img1.be417f4ccac0b5aeef96.JPG",
-    "static/media/main_picture_3.png": "/wedding/static/media/main_picture_3.6486e2abf85779767d36.png",
     "static/media/Img11.JPG": "/wedding/static/media/Img11.c7d141796d8aa0c2865d.JPG",
     "static/media/Img21.jpg": "/wedding/static/media/Img21.93ca1ee0e577f383e39d.jpg",
     "static/media/Img23.jpg": "/wedding/static/media/Img23.a456a99df26f97faa5dc.jpg",
@@ -41,10 +41,10 @@
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.c1d7037c.css.map": "/wedding/static/css/main.c1d7037c.css.map",
-    "main.d1a5a6c3.js.map": "/wedding/static/js/main.d1a5a6c3.js.map"
+    "main.9941d286.js.map": "/wedding/static/js/main.9941d286.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d7037c.css",
-    "static/js/main.d1a5a6c3.js"
+    "static/js/main.9941d286.js"
   ]
 }
