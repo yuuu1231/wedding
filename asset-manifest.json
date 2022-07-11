@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.c1d7037c.css",
-    "main.js": "/wedding/static/js/main.0fbea20f.js",
+    "main.js": "/wedding/static/js/main.d1a5a6c3.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
-    "static/media/main_photo_2.png": "/wedding/static/media/main_photo_2.dfe5f28b2ebc71a734c5.png",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
     "static/media/Img24.jpg": "/wedding/static/media/Img24.82854bec0d2824d78f12.jpg",
@@ -23,30 +22,29 @@
     "static/media/Img18.JPG": "/wedding/static/media/Img18.e966a6594af12afe9b19.JPG",
     "static/media/Img9.JPG": "/wedding/static/media/Img9.1dd6dab0d0734fdab884.JPG",
     "static/media/Img1.JPG": "/wedding/static/media/Img1.be417f4ccac0b5aeef96.JPG",
+    "static/media/main_picture_3.png": "/wedding/static/media/main_picture_3.6486e2abf85779767d36.png",
     "static/media/Img11.JPG": "/wedding/static/media/Img11.c7d141796d8aa0c2865d.JPG",
     "static/media/Img21.jpg": "/wedding/static/media/Img21.93ca1ee0e577f383e39d.jpg",
     "static/media/Img23.jpg": "/wedding/static/media/Img23.a456a99df26f97faa5dc.jpg",
     "static/media/Img17.JPG": "/wedding/static/media/Img17.c1e5e6590e58040d2563.JPG",
     "static/media/KOTRA_GOTHIC.ttf": "/wedding/static/media/KOTRA_GOTHIC.5aa42525c2e23a084d84.ttf",
-    "static/media/main_picture_2.png": "/wedding/static/media/main_picture_2.953b7030e7f952ed8ae9.png",
     "static/media/Img14.JPG": "/wedding/static/media/Img14.999bf138c72f03ced3db.JPG",
     "static/media/Img3.JPG": "/wedding/static/media/Img3.87ad319fd8058e0de4f3.JPG",
     "static/media/Img2.JPG": "/wedding/static/media/Img2.d2ecee709d88760e3b11.JPG",
     "static/media/Img20.jpg": "/wedding/static/media/Img20.f172de8727345d792d32.jpg",
     "static/media/picture_2.png": "/wedding/static/media/picture_2.3c0de93f0ca1038b0ae3.png",
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
-    "static/media/wedding_day.png": "/wedding/static/media/wedding_day.8e7b528c436e1fdabbba.png",
-    "static/media/wedding_day_3.png": "/wedding/static/media/wedding_day_3.ec065576306ed123131c.png",
+    "static/media/wedding_day_2.png": "/wedding/static/media/wedding_day_2.9b50c402035c623d33b7.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
     "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.c1d7037c.css.map": "/wedding/static/css/main.c1d7037c.css.map",
-    "main.0fbea20f.js.map": "/wedding/static/js/main.0fbea20f.js.map"
+    "main.d1a5a6c3.js.map": "/wedding/static/js/main.d1a5a6c3.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d7037c.css",
-    "static/js/main.0fbea20f.js"
+    "static/js/main.d1a5a6c3.js"
   ]
 }
