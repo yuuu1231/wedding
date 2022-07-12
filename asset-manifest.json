@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.c1d7037c.css",
-    "main.js": "/wedding/static/js/main.7a0c5fb3.js",
+    "main.js": "/wedding/static/js/main.cf1b68c8.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
+    "static/media/Some Day My Prince Will Come.mp4": "/wedding/static/media/Some Day My Prince Will Come.15e0eed22d4563e5856f.mp4",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
@@ -22,7 +23,7 @@
     "static/media/Img18.JPG": "/wedding/static/media/Img18.e966a6594af12afe9b19.JPG",
     "static/media/Img9.JPG": "/wedding/static/media/Img9.1dd6dab0d0734fdab884.JPG",
     "static/media/Img1.JPG": "/wedding/static/media/Img1.be417f4ccac0b5aeef96.JPG",
-    "static/media/main_picture_3.png": "/wedding/static/media/main_picture_3.42df14336d7426dce352.png",
+    "static/media/main_picture_4.png": "/wedding/static/media/main_picture_4.4e7992d0acb05e24806e.png",
     "static/media/Img11.JPG": "/wedding/static/media/Img11.c7d141796d8aa0c2865d.JPG",
     "static/media/Img21.jpg": "/wedding/static/media/Img21.93ca1ee0e577f383e39d.jpg",
     "static/media/Img23.jpg": "/wedding/static/media/Img23.a456a99df26f97faa5dc.jpg",
@@ -40,10 +41,10 @@
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
     "index.html": "/wedding/index.html",
     "main.c1d7037c.css.map": "/wedding/static/css/main.c1d7037c.css.map",
-    "main.7a0c5fb3.js.map": "/wedding/static/js/main.7a0c5fb3.js.map"
+    "main.cf1b68c8.js.map": "/wedding/static/js/main.cf1b68c8.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d7037c.css",
-    "static/js/main.7a0c5fb3.js"
+    "static/js/main.cf1b68c8.js"
   ]
 }
