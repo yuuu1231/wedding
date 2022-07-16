@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.b0dfc981.css",
-    "main.js": "/wedding/static/js/main.90ced438.js",
+    "main.css": "/wedding/static/css/main.94e35ab4.css",
+    "main.js": "/wedding/static/js/main.76b656f7.js",
     "static/media/Img25.jpg": "/wedding/static/media/Img25.876617e1a2996ee703e7.jpg",
-    "static/media/Some Day My Prince Will Come.mp4": "/wedding/static/media/Some Day My Prince Will Come.15e0eed22d4563e5856f.mp4",
+    "static/media/I See The Light for Piano Solo HD.mp3": "/wedding/static/media/I See The Light for Piano Solo HD.515729661448e8537305.mp3",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
@@ -18,9 +18,9 @@
     "static/media/Img5.JPG": "/wedding/static/media/Img5.226578e504d90474e8a3.JPG",
     "static/media/Img22.jpg": "/wedding/static/media/Img22.839c1cbb8d9fd61f20c6.jpg",
     "static/media/Img13.JPG": "/wedding/static/media/Img13.24aa7ac8646fd4f65db1.JPG",
-    "static/media/main_picture_4.png": "/wedding/static/media/main_picture_4.8fc8d672f79697b447a4.png",
     "static/media/Img10.JPG": "/wedding/static/media/Img10.3d1d4afd50c963c04416.JPG",
     "static/media/Img19.jpg": "/wedding/static/media/Img19.d37ee0112a234b7e540e.jpg",
+    "static/media/main_picture.png": "/wedding/static/media/main_picture.c77441038496911738b3.png",
     "static/media/Img18.JPG": "/wedding/static/media/Img18.e966a6594af12afe9b19.JPG",
     "static/media/Img9.JPG": "/wedding/static/media/Img9.1dd6dab0d0734fdab884.JPG",
     "static/media/Img1.JPG": "/wedding/static/media/Img1.be417f4ccac0b5aeef96.JPG",
@@ -37,16 +37,15 @@
     "static/media/leaf.png": "/wedding/static/media/leaf.c714032800b4c9d3c585.png",
     "static/media/Parisienne-Regular.ttf": "/wedding/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "static/media/Andalusia.ttf": "/wedding/static/media/Andalusia.4e7fb7a82705f16ca0d0.ttf",
-    "static/media/groovepaper.png": "/wedding/static/media/groovepaper.33326b07913fac2781bb.png",
-    "static/media/play.png": "/wedding/static/media/play.5469c505126f23374432.png",
     "static/media/tel_pictogram.png": "/wedding/static/media/tel_pictogram.2ff23aa2ce299068dc9e.png",
-    "static/media/pause.png": "/wedding/static/media/pause.48bd2936c1ac596cf550.png",
+    "static/media/notebook.png": "/wedding/static/media/notebook.83d36f5dabcdf8c8cc80.png",
+    "static/media/photo.png": "/wedding/static/media/photo.e02940f437c151d8903c.png",
     "index.html": "/wedding/index.html",
-    "main.b0dfc981.css.map": "/wedding/static/css/main.b0dfc981.css.map",
-    "main.90ced438.js.map": "/wedding/static/js/main.90ced438.js.map"
+    "main.94e35ab4.css.map": "/wedding/static/css/main.94e35ab4.css.map",
+    "main.76b656f7.js.map": "/wedding/static/js/main.76b656f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0dfc981.css",
-    "static/js/main.90ced438.js"
+    "static/css/main.94e35ab4.css",
+    "static/js/main.76b656f7.js"
   ]
 }
