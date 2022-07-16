@@ -1,33 +1,51 @@
 import React from 'react';
 import styled from "styled-components";
-import "../css/App.css";
-import picture from "../images/main_picture.png";
+import Fade from 'react-reveal/Fade';
+import wedding_day from "../images/pictures/wedding_day.png";
+import picture from "../images/pictures/main_picture_2.png";
 
-const StyledImg = styled.img`
-    width: 100%;
+const TitleImg = styled.img`
+    padding-top: 5%;
+    width: 86%;
     padding-bottom:0;
     display:block;
+    padding-left: 7%;
+    padding-right: 7%;
+    opacity:0.8; 
 `;
-const StyledContainer = styled.div`
-    background-color: #f4d1c5;
-    margin-top: 0;
+const MainImg = styled.img`
+    width: 100%;
+    margin-bottom:0;
+    display:block;
+    vertical-align:top;
 `;
+
 const Contents = styled.div`
     font-weight: 100;
     padding-bottom: 30%;
     padding-top: 2%;
+    margin-top: 0;
+    background-color: #F8E6E0;
 `;
-
+const Name = styled.div`
+    font-family: 'NanumSquareAcb';
+    padding-bottom: 2%;
+`;
 export default function TopContainer() {
     return (
         <div>
-            <StyledImg src={picture}/>
-            <StyledContainer>
-                <Contents>
+            <Fade top>
+                <TitleImg src={wedding_day}/>
+            </Fade>
+            <MainImg src={picture}/>
+            <Contents>
+                <Fade bottom>
+                    <Name>김세중 · 최유정</Name>
                     <div>2022년 9월 18일 일요일 오후 3시</div>
-                    <div>소노펠리체 컨벤션 다이아몬드홀 (단독홀)</div>
-                </Contents>
-            </StyledContainer>
+                    <div style={{paddingTop: "1%"}}>소노펠리체 컨벤션</div>
+                </Fade>
+            </Contents>
+
         </div>
     );
 }

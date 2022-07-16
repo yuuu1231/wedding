@@ -1,5 +1,5 @@
 
-* {
+body {
     text-align: center;
     font-size: 100%;
     font-family: 'NanumSquareAcl';
@@ -7,11 +7,11 @@
 }
 
 .fontBold {
-    font-family: 'NanumSquareAceb';
+    font-family: 'NanumSquareAcb';
 }
 
 .fontRegular {
-    font-family: 'NanumSquareAcer';
+    font-family: 'NanumSquareAcr';
 }
 
 .first {
@@ -29,7 +29,17 @@
     align-items: center;
 }
 
+.nameDiv {
+    font-family: 'NanumSquareAcr';
+    padding-top: 2%;
+    vertical-align: center;
+}
 
+.smallFont {
+    padding-left: 1%;
+    font-family: 'NanumSquareAcl';
+    font-size: 90%;
+}
 
 .customoverlay {
     position: relative;
@@ -84,4 +94,103 @@
     font-size: 100%;
     padding-top: 20%;
     padding-bottom: 5%;
+}
+
+.titleDivLarge {
+    font-family: 'NanumSquareAceB';
+    font-size: 120%;
+    padding-top: 20%;
+    padding-bottom: 3%;
+}
+
+.accountDiv {
+    padding-bottom: 3%;
+}
+
+.mount1 {
+    animation: 0.7s ease-in-out loadEffect1;
+}
+
+@keyframes loadEffect1 {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.mapDescLv1 {
+    font-family: 'NanumSquareAceb';
+    font-size: 90%;
+}
+
+.mapDescLv2 {
+    font-family: 'NanumSquareAcr';
+    font-size: 85%;
+    padding-top: 2%;
+}
+
+.mapDescLv3 {
+    font-family: 'NanumSquareAcl';
+    font-size: 80%;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+.paddingTop {
+    padding-top: 4%;
+}
+
+.groom {
+    padding-left: 3%;
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    flex-direction: column;
+}
+
+.bride {
+    padding-right: 3%;
+    justify-content: right;
+    text-align: right;
+    flex-direction: column;
+}
+
+.telSection {
+    display: flex;
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+.telDiv {
+    padding-top: 1%;
+}
+
+
+.pauseBtn {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    border: none;
+    background: url(../images/shape/pause.png);    background-size: cover;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.6;
+}
+
+.playBtn {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    border: none;
+    background: url(../images/shape/play.png);
+    background-size: cover;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.6;
 }

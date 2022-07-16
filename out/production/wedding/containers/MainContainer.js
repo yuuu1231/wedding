@@ -2,30 +2,38 @@ import React from 'react';
 import styled from "styled-components";
 import "../font/font.css";
 import ContentsContainer from "./ContentsContainer";
-import texture from "../images/background/asfalt-dark.png";
-import TopContainer from "./TopContainer";
+import texture from "../images/texture/groovepaper.png";
+import TopContainer from "./TopContainer_3";
 import GalleryContainer from "./GalleryContainer";
 import MapContainer from "./MapContainer";
 import AccountContainer from "./AccountContainer";
 import CalendarContainer from "./CalendarContainer";
-import GalleryContainer_2 from "./GalleryContainer_2";
+import ConfettiComponent from "../components/ConfettiComponent";
+import FooterContainer from "./FooterContainer";
 
 const Main = styled.div`
     width: 100vw;
-    background-color: #FFFDF9;
+    background-color: #FFFFFF;
     background-image: url(${texture});
+    padding-bottom: 3%;
+`;
+const BodyContainer = styled.div`
+    padding-bottom: 20%;
 `;
 
 export default function MainContainer() {
     return (
         <Main>
-            <TopContainer/>
-            <ContentsContainer/>
-            <GalleryContainer/>
-            <GalleryContainer_2/>
-            <CalendarContainer/>
-            <MapContainer/>
-            <AccountContainer/>
+            <BodyContainer>
+                <ConfettiComponent/>
+                <TopContainer/>
+                <ContentsContainer/>
+                <GalleryContainer/>
+                <CalendarContainer/>
+                <MapContainer/>
+                <AccountContainer/>
+            </BodyContainer>
+            <FooterContainer/>
         </Main>
     );
 }

@@ -1,4 +1,5 @@
 import * as React from "react";
+import Fade from 'react-reveal/Fade';
 import Img1 from "../images/gallery/Img1.JPG";
 import Img2 from "../images/gallery/Img2.JPG";
 import Img3 from "../images/gallery/Img3.JPG";
@@ -13,10 +14,15 @@ import Img11 from "../images/gallery/Img11.JPG";
 import Img12 from "../images/gallery/Img12.JPG";
 import Img13 from "../images/gallery/Img13.JPG";
 import Img14 from "../images/gallery/Img14.JPG";
-import Img15 from "../images/gallery/Img15.JPG";
 import Img16 from "../images/gallery/Img16.JPG";
 import Img17 from "../images/gallery/Img17.JPG";
 import Img18 from "../images/gallery/Img18.JPG";
+import Img19 from "../images/gallery/Img19.jpg";
+import Img20 from "../images/gallery/Img20.jpg";
+import Img21 from "../images/gallery/Img21.jpg";
+import Img22 from "../images/gallery/Img22.jpg";
+import Img23 from "../images/gallery/Img23.jpg";
+import Img24 from "../images/gallery/Img24.jpg";
 
 import {ReactPhotoCollage} from "react-photo-collage";
 import styled from "styled-components";
@@ -24,9 +30,11 @@ import styled from "styled-components";
 
 const setting = {
     width: "100%",
-    height: ["120px", "120px", "120px"],
-    layout: [4, 4, 4],
+    height: ["100px", "100px", "100px"],
+    layout: [5, 5, 5],
     photos: [
+        {source: Img24},
+        {source: Img19},
         {source: Img1},
         {source: Img2},
         {source: Img3},
@@ -41,20 +49,17 @@ const setting = {
         {source: Img12},
         {source: Img13},
         {source: Img14},
-        {source: Img15},
         {source: Img16},
         {source: Img17},
         {source: Img18},
+        {source: Img20},
+        {source: Img21},
+        {source: Img22},
+        {source: Img23},
     ],
     showNumOfRemainingPhotos: true
 };
 
-const TitleDiv = styled.div`
-    font-family: 'NanumSquareAceB';
-    font-size: 100%;
-    padding-top: 20%;
-    padding-bottom: 2%;
-`;
 const TextDiv = styled.div`
     font-family: 'NanumSquareAcl';
     font-size: 80%;
@@ -62,13 +67,14 @@ const TextDiv = styled.div`
 `;
 
 
-
 export default function GalleryContainer() {
     return (
         <div>
-            <TitleDiv>Gallery</TitleDiv>
-            <TextDiv>슬라이드하여 다음 사진을 보실 수 있습니다.</TextDiv>
-            <ReactPhotoCollage {...setting} />
+            <Fade bottom>
+                <div className="titleDivLarge">Gallery</div>
+                <TextDiv>슬라이드하여 다음 사진을 보실 수 있습니다.</TextDiv>
+                <ReactPhotoCollage {...setting} />
+            </Fade>
         </div>
     );
 }
