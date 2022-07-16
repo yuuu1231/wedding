@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.15e0d44d.css",
-    "main.js": "/wedding/static/js/main.f64f793d.js",
+    "main.css": "/wedding/static/css/main.580d0fc2.css",
+    "main.js": "/wedding/static/js/main.fa373e7f.js",
     "static/media/I See The Light for Piano Solo HD.mp3": "/wedding/static/media/I See The Light for Piano Solo HD.515729661448e8537305.mp3",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
@@ -36,11 +36,11 @@
     "static/media/notebook.png": "/wedding/static/media/notebook.83d36f5dabcdf8c8cc80.png",
     "static/media/photo.png": "/wedding/static/media/photo.e02940f437c151d8903c.png",
     "index.html": "/wedding/index.html",
-    "main.15e0d44d.css.map": "/wedding/static/css/main.15e0d44d.css.map",
-    "main.f64f793d.js.map": "/wedding/static/js/main.f64f793d.js.map"
+    "main.580d0fc2.css.map": "/wedding/static/css/main.580d0fc2.css.map",
+    "main.fa373e7f.js.map": "/wedding/static/js/main.fa373e7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e0d44d.css",
-    "static/js/main.f64f793d.js"
+    "static/css/main.580d0fc2.css",
+    "static/js/main.fa373e7f.js"
   ]
 }
