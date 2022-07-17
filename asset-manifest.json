@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.c53760db.css",
-    "main.js": "/wedding/static/js/main.7c05912c.js",
+    "main.css": "/wedding/static/css/main.fa353870.css",
+    "main.js": "/wedding/static/js/main.02c7f4a9.js",
     "static/media/0017.JPG": "/wedding/static/media/0017.b47e686032db42791e95.JPG",
-    "static/media/I See The Light for Piano Solo HD.mp3": "/wedding/static/media/I See The Light for Piano Solo HD.515729661448e8537305.mp3",
+    "static/media/Some Day My Prince Will Come.mp4": "/wedding/static/media/Some Day My Prince Will Come.15e0eed22d4563e5856f.mp4",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
     "static/media/MaruBuri-Regular.ttf": "/wedding/static/media/MaruBuri-Regular.d093be503c1a0c7708e6.ttf",
     "static/media/MaruBuri-Light.ttf": "/wedding/static/media/MaruBuri-Light.2001e943b6b25e3c4d72.ttf",
     "static/media/MaruBuri-ExtraLight.ttf": "/wedding/static/media/MaruBuri-ExtraLight.d6e27d5806e6832a6939.ttf",
     "static/media/main_picture.png": "/wedding/static/media/main_picture.c77441038496911738b3.png",
     "static/media/0010.JPG": "/wedding/static/media/0010.ecd08246024342768808.JPG",
+    "static/media/photo_3.png": "/wedding/static/media/photo_3.d22498fb51070ed57543.png",
     "static/media/0001.jpg": "/wedding/static/media/0001.e9276e345f1e7ac062c2.jpg",
     "static/media/0018.JPG": "/wedding/static/media/0018.6b49f3e3aad737eff5e1.JPG",
     "static/media/0007.JPG": "/wedding/static/media/0007.4287f2857caa5165d05a.JPG",
@@ -36,11 +37,11 @@
     "static/media/notebook.png": "/wedding/static/media/notebook.83d36f5dabcdf8c8cc80.png",
     "static/media/photo.png": "/wedding/static/media/photo.e02940f437c151d8903c.png",
     "index.html": "/wedding/index.html",
-    "main.c53760db.css.map": "/wedding/static/css/main.c53760db.css.map",
-    "main.7c05912c.js.map": "/wedding/static/js/main.7c05912c.js.map"
+    "main.fa353870.css.map": "/wedding/static/css/main.fa353870.css.map",
+    "main.02c7f4a9.js.map": "/wedding/static/js/main.02c7f4a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53760db.css",
-    "static/js/main.7c05912c.js"
+    "static/css/main.fa353870.css",
+    "static/js/main.02c7f4a9.js"
   ]
 }
