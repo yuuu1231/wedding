@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.fa353870.css",
-    "main.js": "/wedding/static/js/main.02c7f4a9.js",
+    "main.css": "/wedding/static/css/main.52f524bc.css",
+    "main.js": "/wedding/static/js/main.4f6fbcaa.js",
     "static/media/0017.JPG": "/wedding/static/media/0017.b47e686032db42791e95.JPG",
     "static/media/Some Day My Prince Will Come.mp4": "/wedding/static/media/Some Day My Prince Will Come.15e0eed22d4563e5856f.mp4",
     "static/media/MaruBuri-SemiBold.ttf": "/wedding/static/media/MaruBuri-SemiBold.10c94f2d31b44dd73351.ttf",
@@ -37,11 +37,11 @@
     "static/media/notebook.png": "/wedding/static/media/notebook.83d36f5dabcdf8c8cc80.png",
     "static/media/photo.png": "/wedding/static/media/photo.e02940f437c151d8903c.png",
     "index.html": "/wedding/index.html",
-    "main.fa353870.css.map": "/wedding/static/css/main.fa353870.css.map",
-    "main.02c7f4a9.js.map": "/wedding/static/js/main.02c7f4a9.js.map"
+    "main.52f524bc.css.map": "/wedding/static/css/main.52f524bc.css.map",
+    "main.4f6fbcaa.js.map": "/wedding/static/js/main.4f6fbcaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa353870.css",
-    "static/js/main.02c7f4a9.js"
+    "static/css/main.52f524bc.css",
+    "static/js/main.4f6fbcaa.js"
   ]
 }
